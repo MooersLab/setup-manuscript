@@ -35,7 +35,7 @@ cat > AAAreadme.md <<EOF
 The first draft of this AAAreadme.md file was generated with the setupManuscript.sh script file.
 This script works with both bash and zsh.
 
-Please git clone the Overleaf project to the subfolder `ov`.
+Please git clone the Overleaf project to the subfolder 'ov'.
 
 Below are the descriptions of the subfolders for this project.
 
