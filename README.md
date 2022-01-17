@@ -12,3 +12,4 @@ I have mapped this script to an alias stored in my `.bashrc` or `.zshrc` file:
 setupManuscript='cp ~/000manuscripts/setupManuscript.sh . && ./setupManuscript.sh && echo "Now write the paper!"'
 ```
 After sourcing the `.zshrc` file to load the alias, I create a new manuscript folder in my home folder, move to it, and enter `setupManuscript` in the terminal.
+In a few seconds and with very little mental bandwidth, I can create the manuscript folder structure that I need for a research paper.
