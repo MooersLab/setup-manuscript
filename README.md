@@ -19,4 +19,6 @@ After sourcing the `.zshrc` file to load the alias, I create a new manuscript fo
 In a few seconds and with very little mental bandwidth, I can create the manuscript folder structure that I need for a research paper.
 
 
+## Related links
+
 - [The writer's law](https://github.com/MooersLab/thewriterslaw)
