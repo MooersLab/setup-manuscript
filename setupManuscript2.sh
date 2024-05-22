@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 echo "Generate subfolders and AAAreadme.md file for a manuscript."
-echo "Hide subfolders that are not needed in the early 
+echo "Hide subfolders that are not needed in the early." 
 echo "The AAAreadme.md file contains definitions of the subfolders."
 echo 'Copyright by Blaine Mooers and the University of Oklahoma Board of Regents, September 7, 2021.'
 echo "MIT license."
