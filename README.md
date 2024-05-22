@@ -37,7 +37,7 @@ This revised approach is found in `setupManuscript2.sh`.
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |   Added funding and update table.                                                                                                          | 2024 May 22          |
+| Version 0.2 |   Added funding and update table. Added setupManuscript2.sh.                                                                               | 2024 May 22          |
 
 
 ## Sources of funding
