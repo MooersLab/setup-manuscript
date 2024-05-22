@@ -24,6 +24,7 @@ I found the empty subfolders in a new project folder to add clutter.
 A better approach might be to hide these subfolders by preceding their names with a period.
 When the folder is needed, the prepended period can be removed.
 The revealed subfolder will have a standardized name. 
+This revised approach is found in `setupManuscript2.sh`.
 
 
 
@@ -34,9 +35,9 @@ The revealed subfolder will have a standardized name.
 
 ## Update history
 
-|Version      | Changes                                                                                                                                                                         | Date                 |
+|Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |   Added funding and update table.                                                                                                                  | 2024 May 18          |
+| Version 0.2 |   Added funding and update table.                                                                                                          | 2024 May 22          |
 
 
 ## Sources of funding
