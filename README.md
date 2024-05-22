@@ -13,7 +13,7 @@ My workflow involves writing the manuscript in LaTeX on Overleaf. I have additio
 I store this script in a folder called 000manuscripts in my home directory.
 I have mapped this script to an alias stored in my `.bashrc` or `.zshrc` file: 
 ```bash
-setupManuscript='cp ~/000manuscripts/setupManuscript.sh . && ./setupManuscript.sh && echo "Now write the paper!"'
+alias setupManuscript='cp ~/000manuscripts/setupManuscript.sh . && ./setupManuscript.sh && echo "Now write the paper!"'
 ```
 After sourcing the `.zshrc` file to load the alias, I created a new manuscript folder in my home folder, moved to it, and entered `setupManuscript` in the terminal.
 I can create the manuscript folder structure I need for a research paper in a few seconds and with very little mental bandwidth.
